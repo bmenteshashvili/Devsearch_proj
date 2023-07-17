@@ -20,7 +20,7 @@ Sourcode and Resources for Project
 * Rate others work
 * Search other developers
 
-# Course Overview
+# Project Overview
 * Basic Djagno Overview
 * Database Design and Models
 * Static Files
